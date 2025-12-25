@@ -45,6 +45,7 @@ If you mention **symptoms** (e.g. *headache*, *chest pain*, *fever*), the assist
 
 ### 📁 Project Structure
 
+```
 medical-ai-assistant/
 │
 ├── app/                  # Application entry point & UI
@@ -72,7 +73,7 @@ medical-ai-assistant/
 ├── .env.example          # Environment variable template
 └── README.md
 
-
+```
 ---
 
 ### ⚙️ Setup Instructions
@@ -135,6 +136,7 @@ The Gradio interface will automatically open in your browser.
 - Designed for **educational and experimental purposes**
 
 ---
+
 
 
 
